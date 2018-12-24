@@ -10,8 +10,5 @@ public class Index extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.index);
-
-
-
     }
 }
